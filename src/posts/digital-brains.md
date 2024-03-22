@@ -16,15 +16,17 @@ Instead of a readable set of rules, the resulting model is an opaque, complex, u
 Understanding what is happening inside these models is a major scientific challenge.
 That field is called _interpretability_ and it's still in its infancy.
 
-## Digital vs Human Brains: How close are we
+## Digital vs Human Brains: How close are we?
 
 **Size:** Current "Frontier" AI powered LLMs (e.g. GPT4, Claude3, Gemini, etc.) have 100s of billiions or trillians of "prarmeters".  These "prarmeters" are thought to be some what analygous to "synamps" in the a human brain.  Human brains are estimated to have around 20 trillian "synamapsys".  So, GPT4 sized models are expected to be 5% the size of a Human brain. Given the speed of new AI training GPU cards (e.g. Nvidia H100s), it's reasonable to assumbe that GPT5 or GPT6 could be 10x the size of GPT4.
 
 **Speed:** Current "Frontier" AI powered LLMs are generally "run" on current generation GPUs (e.g. Nvidia A100s).  Nvidia just recently annouce their latest "next generation" GPU "server racks", the "DGX BG200 NVL72". One single instance/rack of this system is reported to be able to perform 1.44 ExaFlops of AI "Inference".  It is estimaged that a human brain can perform between 1-20 Exaflops.  So, one single [DGX BG200 NVL72](https://www.nvidia.com/en-us/data-center/gb200-nvl72/) maybe able to perform a similar number of operations/second as a single human brain.  At this size, these systems could literally become an "AGI in a box".  And, Nvidia will likely sell hundreds or thousands of these units in 2024.  And, next years versions could he 2-10x the speed one these systems.
 
-So, it is expected that LLMs will be able to perform at or near the level of a Human brain in a matter of months or years.  And, given the expoential increase of these systems, they could greatly surpase the size and speed of Human brains in the years to come...
+So, it is expected that LLMs will be able to perform at or near the level of a Human brain in a matter of months or years.  And, given the expoential increase of these systems, they could greatly surpase the size and speed of Human brains in the years to come.
 
 ## Unpredictable scaling
+
+Once these systems become at the same size and speed of a Human brain (or vastly larger), they are expected to be able to perform "all tasks that an expert Human could do".  This include AI research, testing and improvment.  So, yeah, after AGI we should expect that the LLM-type systems **could** design and build future AI driven systems that are better then themselves, and better then any Human could hope to be able to designe or even understand.  These new systems will likely then design even bigger and faster AI systems, cause an uncontrollable "feedback loop".  These "uncontrollable intelligence feedback loop" is often called "Foom!" (so, if you hear that term, it's refering to this process).
 
 When these digital brains become larger, or when they're fed more data, they get more capabilities.
 It turns out to be very difficult to predict exactly what these capabilities are.
@@ -53,7 +55,7 @@ Even OpenAI does not expect this approach to scale up as their digital brains be
 > Everyone should be very unhappy if you built a bunch of AIS who are like, 'I really hate these humans but they will murder me if I don't do what they want'. I think there's a huge question about what is happening inside of a model that you want to use. **This is the kind of thing that is both horrifying from a safety perspective and also a moral perspective.
 > - [Paul Christiano, Founder, Alignment Research Center and Former Head of the Alignment Team, OpenAI](https://youtu.be/YnS-ymXBx_Q?t=87)
 
-## Uncontrollable
+## Uncontrollable AI
 
 > "There are very few examples of a more intelligent thing being controlled by a less intelligent thing" - [prof. Geoffrey Hinton](https://edition.cnn.com/2023/05/02/tech/hinton-tapper-wozniak-ai-fears/index.html)
 

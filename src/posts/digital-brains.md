@@ -18,7 +18,10 @@ That field is called _interpretability_ and it's still in its infancy.
 
 ## Digital vs Human Brains: How close are we really?
 
-**Size:** Current "Frontier" AI powered LLMs (e.g. GPT4, Claude3, Gemini, etc.) have 100s of billiions or trillians of "prarmeters".  These "prarmeters" are thought to be some what analygous to "synamps" in the a human brain.  Human brains are estimated to have around 20 trillian "synamapsys".  So, GPT4 sized models are expected to be 5% the size of a Human brain. Given the speed of new AI training GPU cards (e.g. Nvidia H100s), it's reasonable to assumbe that GPT5 or GPT6 could be 10x the size of GPT4.
+This is difficult to perdict and know for certain, but here's some numbers to thing about.
+As of early 2024:
+
+**Size:** Current "Frontier" AI powered LLMs (e.g. GPT4, Claude3, Gemini, etc.) have [100s of billions or trillians of "prarmeters"](https://en.wikipedia.org/wiki/Large_language_model#List).  These "prarmeters" are thought to be some what analygous to "synapse" in the a human brain.  Human brains are estimated to have around 20 trillian "synamapsys".  So, GPT4 sized models are expected to be 5% the size of a Human brain. Given the speed of new AI training GPU cards (e.g. Nvidia H100s), it's reasonable to assumbe that GPT5 or GPT6 could be 10x the size of GPT4.
 
 **Speed:** Current "Frontier" AI powered LLMs are generally "run" on current generation GPUs (e.g. Nvidia A100s).  Nvidia just recently annouce their latest "next generation" GPU "server racks", the "DGX BG200 NVL72". One single instance/rack of this system is reported to be able to perform 1.44 ExaFlops of AI "Inference".  It is estimaged that a human brain can perform between 1-20 Exaflops.  So, one single [DGX BG200 NVL72](https://www.nvidia.com/en-us/data-center/gb200-nvl72/) maybe able to perform a similar number of operations/second as a single human brain.  At this size, these systems could literally become an "AGI in a box".  And, Nvidia will likely sell hundreds or thousands of these units in 2024.  And, next years versions could he 2-10x the speed one these systems.
 

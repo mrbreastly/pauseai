@@ -16,7 +16,7 @@ Instead of a readable set of rules, the resulting model is an opaque, complex, u
 Understanding what is happening inside these models is a major scientific challenge.
 That field is called _interpretability_ and it's still in its infancy.
 
-## Digital vs Human Brains: How close are we?
+## Digital vs Human Brains: How close are we really?
 
 **Size:** Current "Frontier" AI powered LLMs (e.g. GPT4, Claude3, Gemini, etc.) have 100s of billiions or trillians of "prarmeters".  These "prarmeters" are thought to be some what analygous to "synamps" in the a human brain.  Human brains are estimated to have around 20 trillian "synamapsys".  So, GPT4 sized models are expected to be 5% the size of a Human brain. Given the speed of new AI training GPU cards (e.g. Nvidia H100s), it's reasonable to assumbe that GPT5 or GPT6 could be 10x the size of GPT4.
 
@@ -24,11 +24,15 @@ That field is called _interpretability_ and it's still in its infancy.
 
 So, it is expected that LLMs will be able to perform at or near the level of a Human brain in a matter of months or years.  And, given the expoential increase of these systems, they could greatly surpase the size and speed of Human brains in the years to come.
 
+## Uncontrollable scaling
+
+Once these systems become at the same size and speed of a Human brain (or vastly larger), they are expected to be able to perform "all tasks that an expert Human could do".  This include AI research, testing and improvment.  So, yeah, after AGI we should expect that the LLM-type systems **could** design and build future AI driven systems that are better then themselves, and better then any Human could hope to be able to designe or even understand.  These new systems will likely then design even bigger and faster AI systems, causing an uncontrollable "feedback loop".  
+
+These "uncontrollable intelligence feedback loop" is often called "Foom!".  This "Foom!" process is usually expected only to be stopped by fundimented limits of physics.  Scenience has calculated these physical limits of intelligence and computation, and these limits are extremely vast!  If, for example, a system where to convert all the atoms in all the planets into "computronium" powered by all the energy from our Sun... or our Galaxy.  Yes, those are the expected limits of this process of "Foom!".  The possibility of "Foom!" is still [hotly debated](https://intelligence.org/files/AIFoomDebate.pdf).  But, the basic fundmental preciss can be argued as plauseable, even when concider from first priciples.
+
 ## Unpredictable scaling
 
-Once these systems become at the same size and speed of a Human brain (or vastly larger), they are expected to be able to perform "all tasks that an expert Human could do".  This include AI research, testing and improvment.  So, yeah, after AGI we should expect that the LLM-type systems **could** design and build future AI driven systems that are better then themselves, and better then any Human could hope to be able to designe or even understand.  These new systems will likely then design even bigger and faster AI systems, cause an uncontrollable "feedback loop".  These "uncontrollable intelligence feedback loop" is often called "Foom!" (so, if you hear that term, it's refering to this process).
-
-When these digital brains become larger, or when they're fed more data, they get more capabilities.
+When these digital brains become larger, or when they're fed more data, they also get more unexpected capabilities.
 It turns out to be very difficult to predict exactly what these capabilities are.
 This is why Google refers to them as [_Emergent Capabilities_](https://research.google/pubs/emergent-abilities-of-large-language-models/).
 For most capabilities, this is not a problem.

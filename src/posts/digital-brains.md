@@ -43,7 +43,7 @@ Unfortunately, this approach is flawed:
 Even OpenAI does not expect this approach to scale up as their digital brains become smarter - it ["could scale poorly to superhuman models"](https://openai.com/research/weak-to-strong-generalization).
 
 > Everyone should be very unhappy if you built a bunch of AIS who are like, 'I really hate these humans but they will murder me if I don't do what they want'. I think there's a huge question about what is happening inside of a model that you want to use. **This is the kind of thing that is both horrifying from a safety perspective and also a moral perspective.
-> - [Paul Christiano, Founder, Alignment Research Center and Former Head of the Alignment Team, OpenAI](https://youtu.be/YnS-ymXBx_Q?t=84)
+> - [Paul Christiano, Founder, Alignment Research Center and Former Head of the Alignment Team, OpenAI](https://youtu.be/YnS-ymXBx_Q?t=87)
 
 ## Uncontrollable
 

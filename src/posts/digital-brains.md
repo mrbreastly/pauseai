@@ -19,6 +19,7 @@ That field is called _interpretability_ and it's still in its infancy.
 ## Digital vs Human Brains: How close are we really?
 
 This is difficult to perdict and know for certain, but here's some numbers to thing about.
+
 As of early 2024:
 
 **Size:** Current "Frontier" AI powered LLMs (e.g. GPT4, Claude3, Gemini, etc.) have [100s of billions or trillians of "prarmeters"](https://en.wikipedia.org/wiki/Large_language_model#List).  These "prarmeters" are thought to be some what analygous to "synapse" in the a human brain.  Human brains are estimated to have around 20 trillian "synamapsys".  So, GPT4 sized models are expected to be 5% the size of a Human brain. Given the speed of new AI training GPU cards (e.g. Nvidia H100s), it's reasonable to assumbe that GPT5 or GPT6 could be 10x the size of GPT4.

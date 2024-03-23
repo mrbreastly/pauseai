@@ -26,6 +26,9 @@ As of early 2024:
 
 **Speed:** Current "Frontier" AI powered LLMs are generally "run" on current generation GPUs (e.g. Nvidia A100s).  Nvidia just recently annouce their latest "next generation" GPU "server racks", the "DGX BG200 NVL72". One single instance/rack of this system is reported to be able to perform 1.44 ExaFlops of AI "Inference".  It is estimaged that a human brain can perform between 1-20 Exaflops.  So, one single [DGX BG200 NVL72](https://www.nvidia.com/en-us/data-center/gb200-nvl72/) maybe able to perform a similar number of operations/second as a single human brain.  At this size, these systems could literally become an "AGI in a box".  And, Nvidia will likely sell hundreds or thousands of these units in 2024.  And, next years versions could he 2-10x the speed one these systems.
 
+TODO: add section about Grow?
+
+
 So, it is expected that LLMs will be able to perform at or near the level of a Human brain in a matter of months or years.  And, given the expoential increase of these systems, they could greatly surpase the size and speed of Human brains in the years to come.
 
 ## Uncontrollable scaling

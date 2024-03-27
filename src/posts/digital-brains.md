@@ -44,8 +44,8 @@ And then, with continued expoential (or multi-exponential) growth, these systems
 And then, they are also expected to surpase the size, speed and capabilities of "all Human Brains combined" quickly after that. E.g. 
 Quotes:
 - AI Reseracher Survey - https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/
-- Ray Kurwil
-- Elon Musk
+- Ray Kurwil - https://youtu.be/Tr-VgjtUZLM?t=19
+- Elon Musk - https://youtu.be/DSKxmvq9t04?t=106
 
 
 ## Uncontrollable scaling

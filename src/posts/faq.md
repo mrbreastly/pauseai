@@ -43,11 +43,20 @@ But if we keep building more and more powerful AI systems, eventually we will re
 
 We've addressed these concerns in [this article](/mitigating-pause-failures).
 
+## Is a Pause even possible?
+
+AGI is not inevitable.
+It requires hordes of engineers with million-dollar paychecks.
+It requires a fully functional and unrestricted supply chain of the most complex hardware.
+It requires all of us to allow these companies to gamble with our future.
+
+[Read more about the feasibility of a Pause](/feasibility).
+
 ## Who is paying you?
 
-We have not received significant funding so far.
-Everyone contributing to PauseAI is doing so voluntarily.
-We expect to receive a grant through the LightSpeed network soon.
+Virtually all of our actions so far have been done by volunteers.
+However, since February 2024, PauseAI is a [registered non-profit foundation](/legal), and we have received multiple donations from individuals.
+We've also received 20k funding from the LightSpeed network.
 
 You can also [donate](/donate) to PauseAI if you support our cause!
 We use most of the money to enable local communities to organize events.

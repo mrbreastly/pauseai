@@ -41,6 +41,11 @@ We've been using "[Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law)" to
 
 And then, with continued expoential (or multi-exponential) growth, these systems could greatly surpase the size, speed and capabilities of Human Brains in the years to come.
 
+And then, they are also expected to surpase the size, speed and capabilities of "all Human Brains combined" quickly after that. E.g. 
+Quotes:
+- AI Reseracher Survey
+- Elon Musk
+- Ray Kurwil
 
 ## Uncontrollable scaling
 

@@ -25,8 +25,7 @@ That said, here are some numbers to think about.
 **As of early 2024...**
 
 ### Size
-- **Human Brains**: Human brains are estimated to have around around 100 trillian synaptic connections.
-    - See [https://medicine.yale.edu/lab/colon_ramos/overview](https://medicine.yale.edu/lab/colon_ramos/overview)
+- **Human Brains**: Human brains are estimated to have around around [100 trillian synaptic connections](https://medicine.yale.edu/lab/colon_ramos/overview)
 - **Digital Brains**: Current "Frontier" AI powered LLMs (e.g. GPT4, Claude3, Gemini, etc.) have [100s of billions or trillians of "parameters"](https://en.wikipedia.org/wiki/Large_language_model#List).  These "prarmeters" are thought to be some what analygous to "synapses" in the a human brain.  So, GPT4-sized models are expected to be 1% the size of a Human brain. Given the speed of new AI training GPU cards (e.g. Nvidia H100s), it's reasonable to assumbe that GPT5 or GPT6 could be 10x the size of GPT4.  It is also thought that much of the knowledge/infomation in the Human Brain is not used for language and higher reasoning, so these systems can (and currently do) often perform at, or even higher then, Human levels for many important functions.
 
 ### Speed

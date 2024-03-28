@@ -3,7 +3,7 @@ title: AI models are unpredictable digital brains
 description: Nobody understands how AI models work, nobody can predict their behavior, and nobody will be able to control them.
 ---
 
-**We do not understand the internal workings of large-scale AI models, we can not predict what they are able to do as they get bigger, and we cannot control all of their behaviour.**
+**We do not understand the internal workings of large-scale AI models, we can not predict what they are able to do as they get bigger, and we cannot control their behaviour.**
 
 ## Modern AI models are grown, not programmed
 

@@ -70,7 +70,7 @@ It turns out to be very difficult to predict exactly what these capabilities wil
 This is why Google refers to them as [_Emergent Capabilities_](https://research.google/pubs/emergent-abilities-of-large-language-models/).
 For most capabilities, this is not a problem.
 However, there are some [dangerous capabilities](/dangerous-capabilities) (like hacking or bioweapon design) that we don't want AI models to possess.
-Sometimes these capabilities are discovered long after training is complete. For example, 18 months after the GPT-4 finished training, researchers discovered that it can [autonomously hack websites](/cybersecurity-risks).
+Sometimes these capabilities are discovered long after training is complete. For example, 18 months after GPT-4 finished training, researchers discovered that it can [autonomously hack websites](/cybersecurity-risks).
 
 > Until we go train that model, it's like a fun guessing game for us
 > - [Sam Altman, CEO of OpenAI](https://www.ft.com/content/dd9ba2f6-f509-42f0-8e97-4271c7b84ded).

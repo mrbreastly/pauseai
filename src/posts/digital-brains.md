@@ -45,7 +45,7 @@ We've been using "[Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law)" to
 
 Then, with continued exponential (or multi-exponential) growth, these systems could greatly surpass the size, speed and capabilities of Human Brains in the years to come.
 
-And, they are also expected to surpass the size, speed and capabilities of "all Human Brains combined" quickly after that. E.g.
+And, they are also expected to surpass the size, speed and capabilities of "all Human Brains combined" quickly after that.
 
 > "AI systems do nearly all research and development, improvements in AI will accelerate the pace of technological progress, including further progress in AI.  26% responded likely in 2022. 17% responded likely in 2016" -- [2022 Expert Survey on Progress in AI](https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/)
 

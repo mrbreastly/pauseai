@@ -16,7 +16,7 @@ Instead of a readable set of rules, the resulting model is an opaque, complex, u
 Understanding what is happening inside these models is a major scientific challenge.
 That field is called _interpretability_ and it's still in its infancy.
 
-## Digital vs Human Brains: How close are we really?
+## Digital vs. Human Brains: How close are we really?
 
 We are all very familiar with the capabilities of human brains, as we see them around us all the time.  But, the (often surprising and emergent) capabilities of these new "Digital Brains" (Deep Learning systems, LLMs, etc), are difficult to perdict and know for certain. 
 

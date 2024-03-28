@@ -18,25 +18,32 @@ That field is called _interpretability_ and it's still in its infancy.
 
 ## Digital vs Human Brains: How close are we really?
 
-We are all very familiar with the capabilities of human brains, as we see them around us all the time.  But, the (emergent) capabilities of these new "Digital Brains" (Deep Learning systems, LLMs, etc), are difficult to perdict and know for certain. 
+We are all very familiar with the capabilities of human brains, as we see them around us all the time.  But, the (often surprising and emergent) capabilities of these new "Digital Brains" (Deep Learning systems, LLMs, etc), are difficult to perdict and know for certain. 
 
-That said, here are some numbers to think about.
+That said, here are some numbers, similarities and other analogies to help you to compare.
 
 **As of early 2024...**
 
 ### Size
-- **Human Brains**: Human brains are estimated to have around [100 trillian synaptic connections](https://medicine.yale.edu/lab/colon_ramos/overview).
-- **Digital Brains**: Current "Frontier" AI powered LLMs (e.g. GPT4, Claude3, Gemini, etc.) have [100s of billions or trillians of "parameters"](https://en.wikipedia.org/wiki/Large_language_model#List).  These "parameters" are thought to be some what analogous to "synapses" in the human brain.  So, GPT4-sized models are expected to be 1% the size of a Human brain. Given the speed of new AI training GPU cards (e.g. Nvidia H100s), it's reasonable to assume that GPT5 or GPT6 could be 10x the size of GPT4.  It is also thought that much of the knowledge/information in the Human Brain is not used for language and higher reasoning, so these systems can (and currently do) often perform at, or even higher then, Human levels for many important functions, even at there currently smaller size.  Rather then being trained with visual, audio and other sensory inputs, like huamn brains, these Digital Brains are also trained using nearly all the of quality books and text that are available on the internet. This amount of text would take [170k years for a human to read](https://twitter.com/ylecun/status/1750614681209983231?lang=en).
+- **Human Brains:** Human brains are estimated to have around [100 trillian synaptic connections](https://medicine.yale.edu/lab/colon_ramos/overview).
+
+- **Digital Brains:**
+  - Current "frontier" AI powered LLMs (e.g. GPT4, Claude3, Gemini, etc.) have [100s of billions or trillians of "parameters"](https://en.wikipedia.org/wiki/Large_language_model#List).  These "parameters" are thought to be some what analogous to "synapses" in the human brain.  So, GPT4-sized models are expected to be 1% the size of a Human brain.
+  - Given the speed of new AI training GPU cards (e.g. Nvidia H100s), it's reasonable to assume that GPT5 or GPT6 could be 10x the size of GPT4.  It is also thought that much of the knowledge/information in the human brain is not used for language and higher reasoning, so these systems can (and currently do) often perform at, or even higher then, human levels for many important functions even at there currently smaller size.
+  - Also, rather than being trained with visual, audio and other sensory inputs, like human brains, the current LLMs are trained exclusively using nearly all the quality books and text that are available on the internet. This amount of text would take [170k years for a human to read](https://twitter.com/ylecun/status/1750614681209983231?lang=en).
+  - Future multi-modal LLMs Systems will be trained using images, video, audio, 3D worlds, geometry, simulations, robotics training data, etc... on top of all the quality books and text on the internet.  This will give them a much better ability to create imagery, video, sounds, voices, music, 3D worlds and spaces and more.  And, these 3D world simulations will also allow them to be able to directly control robots and other machines in the physical world.
 
 ### Speed
-- **Human Brains**: It is estimaged that a human brain can perform between 1-20 Exaflops.
-    - See [https://www.nist.gov/blogs/taking-measure/brain-inspired-computing-can-help-us-create-faster-more-energy-efficient](https://www.nist.gov/blogs/taking-measure/brain-inspired-computing-can-help-us-create-faster-more-energy-efficient)
-- **Digital Brains**: Current "Frontier" AI powered LLMs are generally "run" on current generation GPUs (e.g. Nvidia A100s).  Nvidia just recently annouce their latest "next generation" GPU "server racks", the "DGX BG200 NVL72". One single instance/rack of this system is reported to be able to perform 1.44 ExaFlops of AI "Inference".   So, one single [DGX BG200 NVL72](https://www.nvidia.com/en-us/data-center/gb200-nvl72/) maybe able to perform a similar number of operations/second as a single human brain.  At this size, these systems could literally become an "AGI in a box".  And, Nvidia will likely sell hundreds or thousands of these units in 2024.  And, next years versions could he 2-10x the speed one these systems.  On top of traditional [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit) and [TPU](https://en.wikipedia.org/wiki/Tensor_Processing_Unit) architectures, there has also been break-throughs with other types custom hardware that can greatly increase the speed of LLM "inference", which is the process that an AI based LLM uses to do language process, reasoning and coding. E.g. [The Groq LPU™
-Inference Engine](https://wow.groq.com/lpu-inference-engine)  
+- **Human Brains:** It is estimated that a human brain can perform between [1-20 Exaflops](https://www.nist.gov/blogs/taking-measure/brain-inspired-computing-can-help-us-create-faster-more-energy-efficient)
+
+- **Digital Brains:**  
+  - Current "frontier" AI powered LLMs are generally "run" on current generation GPUs. e.g. Nvidia A100s, H100s, etc.
+  - Nvidia just recently announced their latest "next generation" GPU "server racks", the "DGX BG200 NVL72". One single instance/rack of this system is reported to be able to perform 1.44 ExaFlops of AI "Inference".   So, one single [DGX BG200 NVL72](https://www.nvidia.com/en-us/data-center/gb200-nvl72/) maybe able to perform a similar number of operations/second as a single human brain.
+  - At this size, these systems could literally become an "AGI in a box".  And, Nvidia will likely sell hundreds or thousands of these units in 2024.  And, next year's versions could be 2-10x the speed one these systems.  On top of traditional [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit) and [TPU](https://en.wikipedia.org/wiki/Tensor_Processing_Unit) architectures, there has also been break-throughs with other types custom hardware that can greatly increase the speed of LLM "inference", which is the process that an AI based LLM uses to do language processing, reasoning and coding. E.g. [The Groq LPU™ Inference Engine](https://wow.groq.com/lpu-inference-engine).
 
 ### Exponential Growth
 
-We've been using "[Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law)" to very accurately predict the size and speed of new computers systems for nearly 50 years. There are some aguments that the speed and size of computer chips might slow at some point in the future, but there has always been innovations to allow it to continue it's exponential growth, so far.  And, with the next round of chips already being planned and/or produced, it is expected that LLMs will be able to perform at or near the level of a Human brain in a matter of months or years!
+We've been using "[Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law)" to very accurately predict the size and speed of new computers systems for nearly 50 years. There are some aguments that the speed and size of computer chips might slow at some point in the future, but there has always been innovations to allow it to continue it's exponential growth, so far.  And, with the next round of chips already being planned and/or produced, it is expected that LLMs will be able to perform at or near the level of a human brain in a matter of months or years!
 
 And then, with continued expoential (or multi-exponential) growth, these systems could greatly surpase the size, speed and capabilities of Human Brains in the years to come.
 

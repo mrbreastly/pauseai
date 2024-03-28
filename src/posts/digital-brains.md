@@ -45,7 +45,8 @@ And then, they are also expected to surpase the size, speed and capabilities of 
 Quotes:
 - AI Reseracher Survey - https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/
 - Ray Kurwil - https://youtu.be/Tr-VgjtUZLM?t=19
-"If the rate of change continues, I think 2029, or maybe 2030, is where digital intelligence will probably exceed all human intelligence combined."  -- Elon Musk - https://youtu.be/DSKxmvq9t04?t=106
+  
+- "If the rate of change continues, I think 2029, or maybe 2030, is where digital intelligence will probably exceed all human intelligence combined."  -- Elon Musk - https://youtu.be/DSKxmvq9t04?t=106
 
 
 ## Uncontrollable scaling

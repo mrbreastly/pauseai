@@ -41,11 +41,11 @@ That said, here are some numbers, similarities and other analogies to help you t
 
 ### Exponential Growth
 
-We've been using "[Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law)" to very accurately predict the size and speed of new computer systems for nearly 50 years. There are some arguments that the speed and size of computer chips might slow at some point in the future, but there has always been innovations to allow it to continue its exponential growth, so far.  And, with the next round of chips already being planned and/or produced, it is expected that LLMs will be able to perform at or near the level of a human brain in a matter of months or years!
+We've been using "[Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law)" to very accurately predict the size and speed of new computer systems for nearly 50 years. There are some arguments that the speed and size of computer chips might slow at some point in the future, but there has always been innovations to allow it to continue its exponential growth, so far.  With the next round of chips already being planned and/or produced, and the horizontal scalability of these AI systems, it is expected that LLMs will be able to perform at or near the level of a human brain in a matter of months or years!
 
-And then, with continued exponential (or multi-exponential) growth, these systems could greatly surpass the size, speed and capabilities of Human Brains in the years to come.
+Then, with continued exponential (or multi-exponential) growth, these systems could greatly surpass the size, speed and capabilities of Human Brains in the years to come.
 
-And then, they are also expected to surpass the size, speed and capabilities of "all Human Brains combined" quickly after that. E.g.
+And, they are also expected to surpass the size, speed and capabilities of "all Human Brains combined" quickly after that. E.g.
 
 > "AI systems do nearly all research and development, improvements in AI will accelerate the pace of technological progress, including further progress in AI.  26% responded likely in 2022. 17% responded likely in 2016" -- [2022 Expert Survey on Progress in AI](https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/)
 

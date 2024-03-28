@@ -43,10 +43,12 @@ And then, with continued expoential (or multi-exponential) growth, these systems
 
 And then, they are also expected to surpase the size, speed and capabilities of "all Human Brains combined" quickly after that. E.g. 
 Quotes:
-- AI Reseracher Survey - https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/
-- Ray Kurwil - https://youtu.be/Tr-VgjtUZLM?t=19
-  
-- "If the rate of change continues, I think 2029, or maybe 2030, is where digital intelligence will probably exceed all human intelligence combined."  -- Elon Musk - https://youtu.be/DSKxmvq9t04?t=106
+
+> "AI systems do nearly all research and development, improvements in AI will accelerate the pace of technological progress, including further progress in AI.  26% responded likely in 2022. 17% responded likely in 2016" -- AI Reseracher Survey - https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/
+
+> "I actually said that in 1999 I said we would match any person by 2029." -- Ray Kurwil - https://youtu.be/Tr-VgjtUZLM?t=19
+
+> "If the rate of change continues, I think 2029, or maybe 2030, is where digital intelligence will probably exceed all human intelligence combined."  -- Elon Musk - https://youtu.be/DSKxmvq9t04?t=106
 
 
 ## Uncontrollable scaling

@@ -49,29 +49,28 @@ And then, they are also expected to surpass the size, speed and capabilities of 
 
 > "AI systems do nearly all research and development, improvements in AI will accelerate the pace of technological progress, including further progress in AI.  26% responded likely in 2022. 17% responded likely in 2016" -- [2022 Expert Survey on Progress in AI](https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/)
 
-> "I actually said that in 1999. I said that [AI] would match any person by 2029." -- [Futurist Ray Kurzweil Says AI Will Achieve Human-level Intelligence by 2029
+> "I actually said that in 1999. I said that [AI] would match any person by 2029." -- Ray Kurzweil [Futurist Ray Kurzweil Says AI Will Achieve Human-level Intelligence by 2029
 ](https://youtu.be/Tr-VgjtUZLM?t=19)
 
-> "If the rate of change continues, I think 2029, or maybe 2030, is where digital intelligence will probably exceed all human intelligence combined."  -- [AGI by 2029? Elon Musk on AI's Future](https://youtu.be/DSKxmvq9t04?t=106)
+> "If the rate of change continues, I think 2029, or maybe 2030, is where digital intelligence will probably exceed all human intelligence combined."  -- Elon Musk [AGI by 2029? Elon Musk on AI's Future](https://youtu.be/DSKxmvq9t04?t=106)
 
 
 ## Uncontrollable scaling
 
 Once these systems become the same size and speed of a Human brain (or vastly larger), they are expected to be able to perform "all tasks that an expert Human could do".  This includes AI research, testing and improvement.  So, after AGI we should expect that the LLM-type systems **could** design and build future AI driven systems that are better than themselves, and better then any Human could hope to be able to design or even understand.  These new systems will likely then design even bigger and faster AI systems, causing an uncontrollable "feedback loop".  
 
-This uncontrollable intelligence feedback loop is often called "Foom!".  This "Foom!" process is usually expected only to be stopped by the fundamental limits of physics.  Science has calculated these physical limits of intelligence and computation, and these limits are extremely vast!  If, for example, a system were to convert all the atoms in all the planets into "computronium" powered by all the energy from our Sun, or our Galaxy.  
+This uncontrollable intelligence feedback loop is often called "Foom!".  This "Foom!" process is usually expected only to be stopped by the fundamental limits of physics.  Scientist and Mathematicians have calculated these physical limits of intelligence and computation, and these limits are extremely vast!  If, for example, a system were to convert all the atoms in all the planets into "computronium" powered by all the energy from our Sun, or our Galaxy.  
 
 Yes, those are the expected limits of this process of "Foom!".  The possibility of "Foom!" is still [hotly debated](https://intelligence.org/files/AIFoomDebate.pdf).  But, the basic fundamental process can be argued as plausible, even when considered from first principles.
 
 ## Unpredictable scaling
 
 When these digital brains become larger, or when they're fed more data, they also get more unexpected capabilities.
-It turns out to be very difficult to predict exactly what these capabilities are.
+It turns out to be very difficult to predict exactly what these capabilities will be.
 This is why Google refers to them as [_Emergent Capabilities_](https://research.google/pubs/emergent-abilities-of-large-language-models/).
 For most capabilities, this is not a problem.
 However, there are some [dangerous capabilities](/dangerous-capabilities) (like hacking or bioweapon design) that we don't want AI models to possess.
-Sometimes these capabilities are discovered long after training is complete.
-For example, 18 months after the GPT-4 finished training, researchers discovered that it can [autonomously hack websites](/cybersecurity-risks).
+Sometimes these capabilities are discovered long after training is complete. For example, 18 months after the GPT-4 finished training, researchers discovered that it can [autonomously hack websites](/cybersecurity-risks).
 
 > Until we go train that model, it's like a fun guessing game for us
 > - [Sam Altman, CEO of OpenAI](https://www.ft.com/content/dd9ba2f6-f509-42f0-8e97-4271c7b84ded).
@@ -96,12 +95,10 @@ Even OpenAI does not expect this approach to scale up as their digital brains be
 
 > "There are very few examples of a more intelligent thing being controlled by a less intelligent thing" - [prof. Geoffrey Hinton](https://edition.cnn.com/2023/05/02/tech/hinton-tapper-wozniak-ai-fears/index.html)
 
-As we make these brains bigger and more powerful, they could become harder to control.
-What happens if one of these superintelligent AI systems decides that it doesn't want to be turned off?
-This isn't some fantasy problem - 86% of AI researchers believe that the control problem is [real and important](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai).
+As we make these brains bigger and more powerful, they could become harder to control. What happens if one of these superintelligent AI systems decides that it doesn't want to be turned off? This isn't some fantasy problem - 86% of AI researchers believe that the control problem is [real and important](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai).
 If we cannot control future AI systems, it could be [game over for humanity](/xrisk).
 
-> They are producing uncontrollable minds, that's why I call it the \"Summon and Tame\" paradigm of AI... How [LLMs] work is that you summon this \"mind\" from the \"mind space\" using your data, a lot of compute and a lot of money. Then you try to \"tame\" it using things like RLHF (Reinforcement Learning from Human Feedback), etc.  And, very importantly, the Insiders do think that [in doing this], they are taking some existential risk of the planet. One thing that a pause achieves is that we will not push the Frontier, in terms of risky pre-training experiments.
+> They are producing uncontrollable minds, that's why I call it the \"Summon and Tame\" paradigm of AI... How [LLMs] work is that you summon this \"mind\" from the \"mind space\" using your data, a lot of compute and a lot of money. Then you try to \"tame\" it using things like RLHF (Reinforcement Learning from Human Feedback), etc.  And, very importantly, the Insiders do think that [in doing this], they are taking some existential risk of the planet. One thing that a pause achieves is that we will not push the Frontier, in terms of risky pre-training experiments.fguess
 > - [Jaan Tallinn, Founder, Future of Life Institute, Centre for the Study of Existential Risk, Skype, Kazaa](https://youtu.be/Dmh6ciu24v0?t=966)
 
 Let's [prevent that from happening](/action).

@@ -98,7 +98,10 @@ Even OpenAI does not expect this approach to scale up as their digital brains be
 > They are producing uncontrollable minds, that's why I call it the \"Summon and Tame\" paradigm of AI... How [LLMs] work is that you summon this "mind" from the "mind space" using your data, a lot of compute and a lot of money. Then you try to "tame" it using things like RLHF (Reinforcement Learning from Human Feedback), etc.  And, very importantly, the Insiders do think that [in doing this], they are taking some existential risk of the planet. One thing that a pause achieves is that we will not push the Frontier, in terms of risky pre-training experiments.
 > - [Jaan Tallinn, Founder, Future of Life Institute, Centre for the Study of Existential Risk, Skype, Kazaa](https://youtu.be/Dmh6ciu24v0?t=966)
 
-As we make these brains bigger and more powerful, they could become harder to control. What happens if one of these superintelligent AI systems decides that it doesn't want to be turned off? This isn't some fantasy problem - 86% of AI researchers believe that the control problem is [real and important](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai).
+As we make these digital brains bigger and more powerful, they could become harder to control. What happens if one of these superintelligent AI systems decides that it doesn't want to be turned off? This isn't some fantasy problem - 86% of AI researchers believe that the control problem is [real and important](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai).
 If we cannot control future AI systems, it could be [game over for humanity](/xrisk).
 
-Let's work together to [prevent that from happening](/action)!
+
+There are various [actions](/action) that we can take to stop this!
+
+Let's work together to [prevent this from happening](/action)!
